@@ -61,8 +61,8 @@ Users should be able to:
 - [Stack Overflow](https://stackoverflow.com/questions/4476526/do-i-use-img-object-or-embed-for-svg-files) - Embedding SVGs
 - [W3](https://www.w3.org/WAI/tutorials/page-structure/headings/) - Heading hierarchy
 - [W3 schools](https://www.w3schools.com/cssref/css3_pr_border-image.asp) - Border image
-- [Stack Overflow](https://stackoverflow.com/questions/10164393/use-border-image-only-for-bottom-border-our-css-seems-to-replicate-the-image-ac)
-- [CSS Tricks](https://css-tricks.com/understanding-border-image/) - border image property
+- [Stack Overflow](https://stackoverflow.com/questions/10164393/use-border-image-only-for-bottom-border-our-css-seems-to-replicate-the-image-ac) - Border image
+- [CSS Tricks](https://css-tricks.com/understanding-border-image/) - Border image property
 - [Geeks for Geeks](https://www.geeksforgeeks.org/resize-image-proportionally-with-css/) - Image resizing
 - [Free Code Camp](https://www.freecodecamp.org/news/the-mistake-developers-make-when-coding-a-hamburger-menu-f46c7a3ff956/) - Hamburger Menu
 - [Geeks for Geeks](https://www.geeksforgeeks.org/how-to-disable-scrolling-temporarily-using-javascript/) - Stop Scrolling
